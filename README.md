@@ -10,7 +10,7 @@
  <div align="center">
 <p align="center">
  
- ### {  Máquina de Estado con Memoria EEPROM y Multiplexación  }
+ ### Máquina de Estado con Memoria EEPROM y Multiplexación
   
   <img src="https://github.com/andresWeitzel/MaquinaDeEstado_EEPROM_Hardware/blob/master/doc/02.jpg">
 
@@ -36,7 +36,7 @@
  <div align="center">
 <p align="center">
  
- ### {  Sistema de Riego Automático para Plantas (en proceso de desarrollo)  }
+ ### Sistema de Riego Automático para Plantas (en proceso de desarrollo)
   
   <img src="https://github.com/andresWeitzel/SistemaRiegoAutomatico/blob/master/ImagenesProyecto/SensoresDeAguaRele/ActivacionSensoresRele%20(2).jpg">
 
@@ -87,7 +87,7 @@
 <div align="center">
 <p align="center">
  
- ### {  Sistema de Control de Nivel de Agua con Arduino Mega y Sensores  }
+ ### Sistema de Control de Nivel de Agua con Arduino Mega y Sensores
   
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/SistemaControlTanqueAgua/internal.png">
 
@@ -129,7 +129,7 @@
 <div align="center">
 <p align="center">
 
- ### {  Sistema de Sensado de Temp/Hum con el Micro ESP8266 y DHT11  }
+ ### Sistema de Sensado de Temp/Hum con el Micro ESP8266 y DHT11
 
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/Sensado_ESP8266/Captura%20de%20pantalla%20(517).png" >
   
