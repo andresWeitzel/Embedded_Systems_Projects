@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./doc/assets/img/projects/embeddedSystem.jpg" >
+<img src="./doc/assets/img/projects/electronysystem.png" >
 </div>
 
 <br>
@@ -15,7 +15,7 @@
 
 <div align="center">
 
-## <img width="35" height="25" src="./doc/assets/gifs/microchip.gif" /> Embedded Systems Projects
+## <img width="40" height="40" src="./doc/assets/gifs/microchip.gif" /> Embedded Systems Projects
 
 </div>
 
