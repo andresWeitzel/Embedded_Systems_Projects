@@ -5,30 +5,30 @@
 <br>
 
 <div align="right">
-  <a href="./README.md" target="_blank" title="Español">
-    <img src="./doc/assets/img/arg-flag.jpg" width="65" height="40" alt="Español" title="Español" />
+  <a href="./README.md" target="_blank" title="Spanish">
+    <img src="./doc/assets/img/arg-flag.jpg" width="65" height="40" alt="Spanish" title="Spanish" />
   </a>
-  <a href="./README.en.md" target="_blank" title="Inglés">
-    <img src="./doc/assets/img/eeuu-flag.jpg" width="65" height="40" alt="Inglés" title="Inglés" />
+  <a href="./README.en.md" target="_blank" title="English">
+    <img src="./doc/assets/img/eeuu-flag.jpg" width="65" height="40" alt="English" title="English" />
   </a>
 </div>
 
 <div align="center">
 
-## <img width="40" height="40" src="./doc/assets/gifs/microchip.gif" /> Sistemas Embebidos
+## <img width="40" height="40" src="./doc/assets/gifs/microchip.gif" /> Embedded Systems
 
 </div>
 
 </br>
 
-Este repositorio reúne proyectos de sistemas embebidos centrados en el control electrónico, el sensado, la automatización y la programación de microcontroladores, con implementaciones prácticas e integración modular de hardware y software.
+This repository brings together embedded systems projects focused on electronic control, sensing, automation, and microcontroller programming, with practical implementations and modular hardware-software integration.
 
 <br>
 
-* Lenguajes: C/C++, MicroPython, otros.
-* Plataformas: Arduino, ESP8266, PIC, otras.
-* Tecnologías: Electrónica, sensores, actuadores, protocolos de comunicación.
-* Herramientas: Compilador MPLAB/PIC, Thonny, Fritzing, Git, VS Code, otras.
+* Languages: C/C++, MicroPython, others.
+* Platforms: Arduino, ESP8266, PIC, others.
+* Technologies: Electronics, sensors, actuators, communication protocols.
+* Tools: MPLAB/PIC compiler, Thonny, Fritzing, Git, VS Code, others.
 
 <br>
 <br>
@@ -36,28 +36,28 @@ Este repositorio reúne proyectos de sistemas embebidos centrados en el control 
 <!------Start Index----->
 
 <a id="index"></a>
-## Índice 📜
+## Index 📜
 
 <details>
- <summary> Ver </summary>
+ <summary> See </summary>
 
  <br>
 
-#### 🗂️ Proyectos
+#### 🗂️ Projects
 
-* [Máquina de estados con EEPROM y multiplexación ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#maquina-de-estados-con-eeprom-y-multiplexacion)
+* [State Machine with EEPROM and Multiplexing ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#state-machine-with-eeprom-and-multiplexing)
 
   <div align="left"><img width="25" height="25" src="./doc/assets/icons/devops/png/git.png" style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/devops/png/postman.png" style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/embedded-systems/png/piccompiler.png" style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/embedded-systems/png/arduino.png" style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/backend/others/png/c-plusplus.png" style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/devops/png/vsc.png" style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/embedded-systems/png/microchip.png" style="vertical-align: middle;" border="0" /></div>
 
-* [Sistema de riego automático para plantas ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#sistema-de-riego-automatico-para-plantas)
+* [Automatic Plant Irrigation System ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#automatic-plant-irrigation-system)
 
   <div align="left"><img width="25" height="25" src="./doc/assets/icons/devops/png/git.png" style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/devops/png/postman.png" style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/embedded-systems/png/embedded-system.png" style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/embedded-systems/png/arduino.png" style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/backend/others/png/c-plusplus.png" style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/devops/png/vsc.png" style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/embedded-systems/png/microchip.png" style="vertical-align: middle;" border="0" /></div>
 
-* [Control de nivel de agua con Arduino Mega ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#control-de-nivel-de-agua-con-arduino-mega)
+* [Water Level Control with Arduino Mega ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#water-level-control-with-arduino-mega)
 
   <div align="left"><img width="25" height="25" src="./doc/assets/icons/devops/png/git.png" style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/devops/png/postman.png" style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/embedded-systems/png/embedded-system.png" style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/embedded-systems/png/arduino.png" style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/backend/others/png/c-plusplus.png" style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/devops/png/vsc.png" style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/devops/png/command-line.png" style="vertical-align: middle;" border="0" /></div>
 
-* [Sensado de temperatura/humedad con ESP8266 + DHT11 ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#sensado-de-temperatura-humedad-con-esp8266--dht11)
+* [Temperature/Humidity Sensing with ESP8266 + DHT11 ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)](#temperaturehumidity-sensing-with-esp8266--dht11)
 
   <div align="left"><img width="25" height="25" src="./doc/assets/icons/devops/png/git.png" style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/devops/png/postman.png" style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/backend/others/png/python.png" style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/embedded-systems/png/esp8266.png" style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/devops/png/vsc.png" style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/embedded-systems/png/micropython.png" style="vertical-align: middle;" border="0" /> <img width="25" height="25" src="./doc/assets/icons/embedded-systems/png/thonny.png" style="vertical-align: middle;" border="0" /></div>
 
@@ -72,7 +72,7 @@ Este repositorio reúne proyectos de sistemas embebidos centrados en el control 
 
 <div align="center">
 
-## 🗂️ Proyectos
+## 🗂️ Projects
 
 </div>
 
@@ -82,8 +82,8 @@ Este repositorio reúne proyectos de sistemas embebidos centrados en el control 
 
 <div align="center">
 
-<a id="maquina-de-estados-con-eeprom-y-multiplexacion"></a>
-### Máquina de estados con EEPROM y multiplexación ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)
+<a id="state-machine-with-eeprom-and-multiplexing"></a>
+### State Machine with EEPROM and Multiplexing ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)
 
 <a href="https://github.com/andresWeitzel/MaquinaDeEstado_EEPROM_Hardware" target="_blank">
   <img src="https://github.com/andresWeitzel/MaquinaDeEstado_EEPROM_Hardware/blob/master/doc/02.jpg">
@@ -93,10 +93,10 @@ Este repositorio reúne proyectos de sistemas embebidos centrados en el control 
 
 <br>
 
-### Detalles
+### Details
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/MaquinaDeEstado_EEPROM_Hardware" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.png" alt="Código" height="30" border="0" /></a><!-- --><a href="https://www.youtube.com/watch?v=kMSUqcmOn2M&list=PLCl11UFjHurDSwDmjUEX_ddVDaXWpO0FU" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.png" alt="Video" height="30" border="0" /></a>
+<a href="https://github.com/andresWeitzel/MaquinaDeEstado_EEPROM_Hardware" target="_blank" rel="noopener noreferrer" title="Code"><img src="./doc/assets/icons/detail-actions/code-pill.png" alt="Code" height="30" border="0" /></a><!-- --><a href="https://www.youtube.com/watch?v=kMSUqcmOn2M&list=PLCl11UFjHurDSwDmjUEX_ddVDaXWpO0FU" target="_blank" rel="noopener noreferrer" title="YouTube video"><img src="./doc/assets/icons/detail-actions/video-pill.png" alt="Video" height="30" border="0" /></a>
 </div>
 
 <!------END state-machine------->
@@ -112,8 +112,8 @@ Este repositorio reúne proyectos de sistemas embebidos centrados en el control 
 
 <div align="center">
 
-<a id="sistema-de-riego-automatico-para-plantas"></a>
-### Sistema de riego automático para plantas ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)
+<a id="automatic-plant-irrigation-system"></a>
+### Automatic Plant Irrigation System ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)
 
 <a href="https://github.com/andresWeitzel/SistemaRiegoAutomatico" target="_blank">
   <img src="https://github.com/andresWeitzel/SistemaRiegoAutomatico/blob/master/ImagenesProyecto/SensoresDeAguaRele/ActivacionSensoresRele%20(2).jpg">
@@ -123,10 +123,10 @@ Este repositorio reúne proyectos de sistemas embebidos centrados en el control 
 
 <br>
 
-### Detalles
+### Details
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/SistemaRiegoAutomatico" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.png" alt="Código" height="30" border="0" /></a><!-- --><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDl2g5HzPVV0YSPFX-Akhr6" target="_blank" rel="noopener noreferrer" title="Video en YouTube"><img src="./doc/assets/icons/detail-actions/video-pill.png" alt="Video" height="30" border="0" /></a>
+<a href="https://github.com/andresWeitzel/SistemaRiegoAutomatico" target="_blank" rel="noopener noreferrer" title="Code"><img src="./doc/assets/icons/detail-actions/code-pill.png" alt="Code" height="30" border="0" /></a><!-- --><a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDl2g5HzPVV0YSPFX-Akhr6" target="_blank" rel="noopener noreferrer" title="YouTube video"><img src="./doc/assets/icons/detail-actions/video-pill.png" alt="Video" height="30" border="0" /></a>
 </div>
 
 <!------END irrigation------->
@@ -142,8 +142,8 @@ Este repositorio reúne proyectos de sistemas embebidos centrados en el control 
 
 <div align="center">
 
-<a id="control-de-nivel-de-agua-con-arduino-mega"></a>
-### Control de nivel de agua con Arduino Mega ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)
+<a id="water-level-control-with-arduino-mega"></a>
+### Water Level Control with Arduino Mega ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)
 
 <a href="https://github.com/andresWeitzel/Proyecto-Sistema-de-Control-para-Tanque-de-Agua" target="_blank">
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/SistemaControlTanqueAgua/internal.png">
@@ -153,10 +153,10 @@ Este repositorio reúne proyectos de sistemas embebidos centrados en el control 
 
 <br>
 
-### Detalles
+### Details
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/Proyecto-Sistema-de-Control-para-Tanque-de-Agua" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.png" alt="Código" height="30" border="0" /></a>
+<a href="https://github.com/andresWeitzel/Proyecto-Sistema-de-Control-para-Tanque-de-Agua" target="_blank" rel="noopener noreferrer" title="Code"><img src="./doc/assets/icons/detail-actions/code-pill.png" alt="Code" height="30" border="0" /></a>
 </div>
 
 <!------END water-level------->
@@ -172,8 +172,8 @@ Este repositorio reúne proyectos de sistemas embebidos centrados en el control 
 
 <div align="center">
 
-<a id="sensado-de-temperatura-humedad-con-esp8266--dht11"></a>
-### Sensado de temperatura/humedad con ESP8266 + DHT11 ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)
+<a id="temperaturehumidity-sensing-with-esp8266--dht11"></a>
+### Temperature/Humidity Sensing with ESP8266 + DHT11 ![(status-completed)](./doc/assets/icons/badges/status-completed.svg)
 
 <a href="https://github.com/andresWeitzel/Sensado_ESP8266_DHT11" target="_blank">
   <img src="https://github.com/andresWeitzel/Graphics/blob/master/Proyectos/Sensado_ESP8266/Captura%20de%20pantalla%20(517).png" >
@@ -183,10 +183,10 @@ Este repositorio reúne proyectos de sistemas embebidos centrados en el control 
 
 <br>
 
-### Detalles
+### Details
 
 <div align="center">
-<a href="https://github.com/andresWeitzel/Sensado_ESP8266_DHT11" target="_blank" rel="noopener noreferrer" title="Código"><img src="./doc/assets/icons/detail-actions/codigo-pill.png" alt="Código" height="30" border="0" /></a>
+<a href="https://github.com/andresWeitzel/Sensado_ESP8266_DHT11" target="_blank" rel="noopener noreferrer" title="Code"><img src="./doc/assets/icons/detail-actions/code-pill.png" alt="Code" height="30" border="0" /></a>
 </div>
 
 <!------END sensing------->
